@@ -3,7 +3,7 @@ Original design: Basic Profile (v2.0 - Sep 11, 2012) - A free xhtml/css website 
 For more information, see http://andreasviklund.com/templates/basic-profile/
 */
 
-*{margin:0; padding:0;}
+*{margin:10px; padding:px;}
 body {background:#fff url(background.jpg) top center no-repeat; color:#303030; font:84% Arial,Helvetica,sans-serif; line-height:1.6em;}
 a {color:#1B62A9; text-decoration:none;}
 a:hover {text-decoration:underline;}
