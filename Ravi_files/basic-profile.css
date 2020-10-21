@@ -3,7 +3,7 @@ Original design: Basic Profile (v2.0 - Sep 11, 2012) - A free xhtml/css website 
 For more information, see http://andreasviklund.com/templates/basic-profile/
 */
 
-*{margin:8px; padding:0;}
+*{margin:0px; padding:0px;}
 body {background:#fff url(background.jpg) top center no-repeat; color:#303030; font:84% Arial,Helvetica,sans-serif; line-height:1.6em;}
 a {color:#1B62A9; text-decoration:none;}
 a:hover {text-decoration:underline;}
@@ -14,7 +14,7 @@ h2 {font-size:2.2em; color:#333; margin:0 0 20px; letter-spacing:-1px; border-bo
 h3 {font-size:1.8em; margin:10px 0 15px 0; letter-spacing:-1px; border-bottom:2px solid #eee;}
 h1,h2,h3 {font-weight:700; line-height:1.4em;}
 #wrap {color:#303030; margin:40px auto; padding:0; width:980px;}
-#content {text-align:left; width:600px; padding-right:40px;}
+#content {text-align:left; width:600px; padding-left:40px ; padding-right:40px;}
 #sidebar {float:right; width:280px; padding-left:40px; border-left:2px solid #ccc; }
 #sidebar ul {list-style:none; margin:0; padding:10px 0 0 0; border-top:1px solid #eee;}
 #sidebar li {list-style:none; font-size:1.2em; margin:0 0 10px; padding:0 0 10px 0; color:#888; border-bottom:1px solid #eee;}
